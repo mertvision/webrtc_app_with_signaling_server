@@ -1,0 +1,19 @@
+.home-page{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    .create-room-button{
+        width: 150px;
+        height: 50px;
+        border: none;
+        border-radius: 5px;
+        background-color: #2C2F33;
+        color: white;
+        font-size: 17px;
+        cursor: pointer;
+    }
+}
